@@ -1,0 +1,2 @@
+# Black-Spot-Alert-On-Mobile-Phone-For-Travellers
+Black spot is a place where road traffic accident have historically  been  concentrated  According to past data, accident occur when the driver is Sleepy or negligent, Moving with high speed, Because of bad condition of roads sending an alert when  the driver is within the range of black spots, so that they  will become active and slow down their vehicle, avoiding accident.
